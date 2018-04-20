@@ -17,4 +17,6 @@
 * Gson
 * Guava
 
-
+___
+#### Note : 
+user will nedd Eclipse with all required plugin installed like Cucumber , Selenium , Maven etc.. in order to run the project
